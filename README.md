@@ -20,11 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Riant's GitHub stats](https://github-readme-stats.vercel.app/api?username=katekyosennajr&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/riant-andriansyah2929)
 - [GitHub](https://github.com/katekyosennajr)
