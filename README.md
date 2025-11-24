@@ -3,7 +3,7 @@
 🌱 Saya seorang Junior developer yang sedang belajar dan berkecimpung di dunia teknologi.  
 💻 Fokus pada **web development**, automation testing, dan eksplorasi framework modern.  
 🚀 Tujuan saya adalah terus berkembang, membangun portofolio yang solid, dan berkontribusi pada komunitas open-source.
-
+Currently saya sedang mencari oppurtunity untuk bekerja baik itu secara remote ataupun on-site, saya sangat berterima kasih jika yang mengunjungi git saya dapat connect dengan saya untuk membicarakan seputar lowongan pekerjaan atau share git saya jika memang di rasa saya cocok untuk pekerjaan yang anda ketahui/kenal.
 ---
 
 ## 🔧 Tech Stack & Tools
