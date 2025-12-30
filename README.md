@@ -1,4 +1,4 @@
-Hi, I'm Riant Andriansyah 
+Hai, perkenalkan saya Riant Andriansyah 
 
 Saya seorang Junior developer yang sedang belajar dan berkecimpung di dunia teknologi.  
 Fokus pada **web development**, automation testing, dan eksplorasi framework modern.  
